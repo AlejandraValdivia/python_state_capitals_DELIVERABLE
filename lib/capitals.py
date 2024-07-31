@@ -76,7 +76,7 @@ states = [
     "name": "Missouri",
     "capital": "Jefferson City"
 }, {
-    "name": "Montana",
+    "na;me": "Montana",
     "capital": "Helena"
 }, {
     "name": "Nebraska",
